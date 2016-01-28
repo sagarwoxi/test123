@@ -1,5 +1,3 @@
 <?php
-echo 456;
-echo 333;
-echo 123;
+echo 'acharya'
 ?>
